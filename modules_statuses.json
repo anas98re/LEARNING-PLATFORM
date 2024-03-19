@@ -1,0 +1,7 @@
+{
+    "Admin": true,
+    "Students": true,
+    "Teachers": true,
+    "Parents": true,
+    "Sections": true
+}

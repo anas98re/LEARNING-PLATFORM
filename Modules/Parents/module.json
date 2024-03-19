@@ -1,0 +1,13 @@
+{
+    "name": "Parents",
+    "alias": "parents",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Parents\\Providers\\ParentsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
